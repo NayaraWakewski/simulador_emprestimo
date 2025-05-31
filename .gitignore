@@ -1,0 +1,58 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+*.env
+.env
+
+# Cache do Python e arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de configuração de IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de log
+*.log
+logs/
+
+# Relatórios de Cobertura de Testes
+.coverage
+coverage.xml
+htmlcov/
+
+# Arquivos de build do Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Arquivos de Pacotes e Dependências (se não gerenciados de outra forma)
+# Pip
+pip-wheel-metadata/
+# Conda
+conda-meta/
+
+# Arquivos específicos do Streamlit (geralmente não necessário ignorar, mas por precaução)
+# .streamlit/
+
+# Seus arquivos "extras" ou pastas que você não quer versionar
+extras/
+
+# Não ignore o próprio .gitignore!
+# (A linha abaixo é comentada porque normalmente não se ignora o .gitignore,
+# mas se você tiver um motivo muito específico, poderia descomentar.
+# Geralmente, você quer que o .gitignore seja versionado.)
+# .gitignore
