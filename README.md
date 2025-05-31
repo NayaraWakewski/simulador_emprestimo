@@ -1,6 +1,6 @@
 # 💰 Simulador de Aprovação de Empréstimos com IA
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](LINK_DA_SUA_APP_STREAMLIT_CLOUD_AQUI) Este projeto implementa um modelo de Machine Learning para prever a probabilidade de aprovação de pedidos de empréstimo e disponibiliza um simulador interativo construído com Streamlit. O objetivo é demonstrar um pipeline completo de ciência de dados, desde a análise exploratória até o deploy de uma aplicação web.
+[![Streamlit App](https://simuladoremprestimo-turma18.streamlit.app/) Este projeto implementa um modelo de Machine Learning para prever a probabilidade de aprovação de pedidos de empréstimo e disponibiliza um simulador interativo construído com Streamlit. O objetivo é demonstrar um pipeline completo de ciência de dados, desde a análise exploratória até o deploy de uma aplicação web.
 
 **Link para a aplicação (Streamlit Community Cloud):** [COLOQUE_O_LINK_DA_SUA_APP_STREAMLIT_CLOUD_AQUI](#)
 *(Você obterá este link após fazer o deploy no Streamlit Community Cloud.)*
@@ -50,5 +50,5 @@ Siga os passos abaixo para configurar e executar o projeto no seu ambiente local
 ### 2. Configuração do Ambiente
 Primeiro, clone este repositório (se ainda não o fez):
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git)
+git clone [https://github.com/NayaraWakewski/simulador_emprestimo.git](https://github.com/NayaraWakewski/simulador_emprestimo.git)
 cd NOME_DO_SEU_REPOSITORIO
